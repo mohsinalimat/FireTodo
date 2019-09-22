@@ -116,3 +116,5 @@ DerivedData/
 !*.xcodeproj/xcshareddata/
 !*.xcworkspace/contents.xcworkspacedata
 /*.gcno
+
+GoogleService-Info.plist
