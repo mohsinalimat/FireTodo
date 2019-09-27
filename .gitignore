@@ -118,3 +118,4 @@ DerivedData/
 /*.gcno
 
 GoogleService-Info.plist
+vendor/bundle
